@@ -1,0 +1,35 @@
+commit ffd5be5344ab96687f66e6f6a781f9dcea881b6f (origin/master, master)
+Author: Musobek Shodmonov <musobek.shodmanov.1998@gmail.com>
+Date:   Mon Aug 2 20:53:25 2021 +0500
+
+    first commit
+Musobeks-MacBook-Pro:devops-intern musobekshodmonov$ git reset --soft origin/MShodmonov-new-feature
+Musobeks-MacBook-Pro:devops-intern musobekshodmonov$ git log
+commit 5d13447a3500a51816c8d72933dc0f90425f7006 (HEAD -> MShodmonov-new-feature, origin/MShodmonov-new-feature)
+Author: Musobek Shodmonov <musobek.shodmanov.1998@gmail.com>
+Date:   Mon Aug 2 21:03:07 2021 +0500
+
+    add README.md and test file to check gitignore
+
+commit ffd5be5344ab96687f66e6f6a781f9dcea881b6f (origin/master, master)
+Author: Musobek Shodmonov <musobek.shodmanov.1998@gmail.com>
+Date:   Mon Aug 2 20:53:25 2021 +0500
+
+    first commit
+
+
+
+
+-----------------------------------------------------------------------------------------------
+
+commit 5d13447a3500a51816c8d72933dc0f90425f7006 (HEAD -> MShodmonov-new-feature, origin/MShodmonov-new-feature)
+Author: Musobek Shodmonov <musobek.shodmanov.1998@gmail.com>
+Date:   Mon Aug 2 21:03:07 2021 +0500
+
+    add README.md and test file to check gitignore
+
+commit ffd5be5344ab96687f66e6f6a781f9dcea881b6f (origin/master, master)
+Author: Musobek Shodmonov <musobek.shodmanov.1998@gmail.com>
+Date:   Mon Aug 2 20:53:25 2021 +0500
+
+    first commit

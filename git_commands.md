@@ -1,0 +1,1 @@
+git init,  mkdir, git add --all, git commit -m , git checkout -b, git checkout, git push -u origin *, git push, git pull, git status, git log --oneline, git reset --soft headOfComment, git reset --hard head, git branch (-M -d), git push origin --delete branch, touch nano   
